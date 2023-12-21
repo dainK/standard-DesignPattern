@@ -1,0 +1,13 @@
+{
+  "name": "standard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
